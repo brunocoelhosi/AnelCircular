@@ -1,6 +1,4 @@
-# AnelCircular
-
-Anel Multithread
+# AnelMultithread
 
 Programa em C cria 30 threads e faça com que uma mensagem circule entre os mesmos.
 A mensagem é uma string aleatória de pelo menos 80 caracteres.
