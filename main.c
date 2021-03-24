@@ -33,7 +33,7 @@ void funcThread(char str[],int tamanho,int i) {
 
     printf("Job %d finished\n\n", counter);
 
-    //Sleep(1000);
+    Sleep(1000);
 
     pthread_mutex_unlock(&lock);
 
